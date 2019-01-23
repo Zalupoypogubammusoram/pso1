@@ -1,6 +1,6 @@
 {
   "require": {
     "php": "^7.2.0"
-    composer config --global repo.packagist composer packagist.org
+ 
   }
 }
