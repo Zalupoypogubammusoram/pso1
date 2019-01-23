@@ -1,1 +1,3 @@
-php composer.phar install
+"autoload": {
+    "classmap": { "test": "index.php" }
+}
